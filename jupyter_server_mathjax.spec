@@ -4,7 +4,7 @@
 #
 Name     : jupyter_server_mathjax
 Version  : 0.2.3
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/f1/6f/aaa531dfcfd5b2179184beccf246401db7fe6d860a77993daf471fc14594/jupyter_server_mathjax-0.2.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/f1/6f/aaa531dfcfd5b2179184beccf246401db7fe6d860a77993daf471fc14594/jupyter_server_mathjax-0.2.3.tar.gz
 Summary  : MathJax resources as a Jupyter Server Extension.
